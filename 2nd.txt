@@ -1,0 +1,195 @@
+13000119095_AWS Fundamentals Going Cloud-Native
+13000119095_Programming, Data Structures And Algorithms Using Python
+13000119095_Introduction to Scripting in Python(Specialization)
+13000119096_Programming, Data Structures And Algorithms Using Python(for 1st year)
+13000119096_Introduction_To_Philosophy_Coursera (for1st year)
+13000119096_Introduction to scripting in Python(Specialization)
+13000119096_Formal Languages and Automata Theory
+13000119097_AWS Fundamentals Going Cloud-Native
+13000119097_Introduction to Scripting in Python(Specialization)
+13000119099_Introduction to Scripting in Python(Specialization)
+13000119099_AWS Fundamentals : Going Cloud -Native
+13000119099_Introduction to AWS Identity and Access Managment
+13000119099_Getting Started with AWS Machine Learning_Coursera
+13000119099_The Data Scientist's Toolbox
+13000119101_Programming, Data Structures And Algorithms Using Python(for 1st yr)
+13000119101_Introduction to scripting in Python(Specialization)
+13000119101_Design and Analysis of Algorithms
+13000119102_Introduction to Scripting in Python
+13000119102_Deep learning in computer vision
+13000119102_Machine Learning and Deep learning with Python and R
+13000119102_Problem Solving Through Programming in c(for 1st year)
+13000119103_Communication in the 21st Century Workplace (for 1st year)
+13000119103_Effective Problem-Solving and Decision-Making (for 1st year)
+13000119103_Ethical Leadership Through Giving Voice(for 1st year)
+13000119103_Interpersonal Communication for Engineering Leaders(for 1st year)
+13000119103_Java Programming Solving Problem with Software(for 1st year)
+13000119103_Technical Writing(for 1st year)
+13000119103_Write Professional Emails in English(for 1st year)
+13000119103_Introduction to Scripting in Python
+13000119103_Machine Learning
+13000119103_Neural Networks and Deep Learning
+13000119103_Python Data Structures
+13000119104_Introduction to Philosophy( for 1st year)
+13000119104_Machine Learning
+130001190104_Version Control With Git
+1300119105_Cybersecurity and Its Ten Domains
+13000119105_AWS Fundamentals Going Cloud-Native
+13000119105_The Data Scientist's Toolbox
+13000119105_Deep Learning in Computer Vision
+13000119105_Introduction to scripting in Python
+13000119105_Neural Networks and Deep Learning
+13000119106_Introduction to Scripting in Python
+13000119106_Machine Learning
+13000119106_The Data Scientist's Toolbox
+13000119107_Programming, Data Structures And Algorithms Using Python(for 1st yr)
+13000119107_Introduction to Programming with MATLAB_(done in 3rd sem)
+13000119107_AWS Fundamentals Going Cloud-Native
+13000119108_Programming, Data Structures And Algorithms Using Python(for 1st yr)
+13000119108_Introduction To Scripting in Python(Specialization)
+13000119108_Google Cloud Platform Fundamentals for AWS Professionals
+13000119108_Version Control with Git
+13000119108_Introduction to AWS Identity and Access Management
+13000119108_Getting Started with AWS Machine Learning
+13000119108_Python Data Structures
+13000119109_Introduction to AWS Identity and Access Management
+13000119109_Getting Started with AWS Machine Learning
+13000119109_Deep Learning in Computer Vision
+13000119109_Version Control with Git_Coursera
+13000119111_Machine Learning
+13000119112_AI For Everyone
+13000119112_AWS Fundamentals Going Cloud-Native
+13000119112_Cybersecurity and Its Ten Domains
+13000119112_Deep Learning in Computer Vision
+13000119112_Design and Analysis of Algorithms
+13000119112_Introduction to Scripting in Python(Specialization)
+13000119114_Programming, Data Structures And Algorithms Using Python
+13000119114_Python Data Structures
+13000119114_Using Python to Access Web Data
+13000119114_Programming for Everybody (Getting Started with Python)
+13000119114_Cameras, Exposure, and Photography
+1300119115_Cybersecurity and Its Ten Domains
+13000119115_AI For Everyone
+13000119115_AWS Fundamentals Going Cloud-Native
+13000119115_Deep Learning in Computer Vision
+13000119115_Neural Networks and Deep Learning
+13000119115_The Data Scientist's Toolbox
+13000119115_Introduction to scripting in Python
+13000119116_Python Data Structures
+13000119116_Programming for Everybody (Getting Started with Python)
+13000119116_Introduction to AWS Identity and Access Management
+13000119116_Using Python to Access Web Data
+13000119117_Deep Learning in Computer vision
+13000119117_Introduction to AWS Identity and Access Management
+13000119117_Getting started with AWS Machine learning
+13000119117_Python Programming Essentials
+13000119117_Introductory Human Physiology
+13000119118_Programming,Data Structure And Algorithms
+13000119118_Getting Started with AWS Machine Learning
+13000119118_Introduction to AWS Identity and Access Management
+13000119118_Version Control with Git
+13000119119_Machine Learning
+13000119119_Python Datastructure
+13000119119_Introduction to scripting in Python
+13000119119_The Data Science Toolbox
+13000119120_AWS Fundamentals Going Cloud-Native
+13000119120_Introduction to Scripting In Python_Coursera
+13000119121_Ecology Ecosystem Dynamics and Conservation (for 1st year)
+13000119121_Introduction to Scripting in Python (Specialization)
+13000119121_Google Cloud Platform Fundamentals for AWS Professionals
+13000119121_Introduction to AWS Identity and Access Management
+13000119121_Getting Started with AWS Machine Learning
+13000119121_Version Control with Git
+13000119124_Machine Learning
+13000119124_Introduction to Scripting in Python
+13000120152_Code_Yourself_An_Introduction_To_Programming
+13000120152_Fundamental_of_Network_Communication
+13000120152_Getting_Started_with_AWS_Machine_Learning
+13000120152_IntroductionTo_AWS_Security
+13000120152_Software_Process_And_Agile_Practices
+13000120152_Version_Control_With_Git
+13000120152_Network_Ethical_Hacking
+13000120152_Python_Programming_And_Software_Designing
+13000120153_Introduction to Scripting in Python
+13000120153_Python Data Structures
+13000120153_Programming for Everybody (Getting Started with Python)
+13000120154_Introduction to Scripting in Python
+13000120154_Python Data Structures
+13000120154_Programming for Everybody (Getting Started with Python)
+13000120155_Psychological First Aid
+13000120155_Introduction to Philosophy
+13000120155_Getting Started with AWS Machine Learning
+13000120155_Ecosystem Dynamics and Conservation
+13000120155_Version Control with Git
+13000120155_Positive Psychology
+13000120155_Mathematics for Machine Learning: Multivariate Calculas
+13000120155_Software Processes and Agile Practices
+13000120156_Getting Started with AWS Machine Learning
+13000120156_Introduction to AWS Identity and Access Management
+13000120156_Introduction to Philosophy
+13000120156_Personal & Family Financial Planning
+13000120157_Getting Started with AWS Machine Learning
+13000120157_Introduction to AWS Identity and Access Management
+13000120157_Introduction to Personal Branding
+13000120157_Introduction to Philosophy
+13000120157_Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential
+13000120157_Positive Psychology
+13000120157_The Science of Success: What Researchers Know that You Should Know
+13000120157_Version Control with Git
+13000120158_Project Deelopement Using Java for Beginners-2021
+13000120158_Getting Started with AWS Machine Learning
+13000120158_Zero to Hero in Microsoft Excel
+13000120158_Introduction to AWS Identity and Access Management
+13000120158_Version Control with Git
+13000120158_Introduction to Cloud Computing 
+13000120158_Complete Javascript with HTML5,CSS3 from zero to Expert-2021
+13000120158_Ethical Hacking 
+13000120158_What is data science
+13000120159_Cybersecurity and its 10 domain
+13000120159_Introduction to Scripting in Python
+13000120159_Python Data Structures
+13000120159_The Data Scientist’s Toolbox
+13000120159_Using Python to Access Web Data
+13000120160_Introduction to Machine Learning
+13000120160_Python Programming Essentials
+13000120160_Software Processes and Agile Practices
+13000120160_Version Control with Git
+13000120160_Getting Started with AWS Machine Learning
+13000120160_Introduction to AWS Identity and Access Management
+13000120160_The Data Scientist’s Toolbox
+13000120160_Cybersecurity and Its Ten Domains
+13000120161_Ethical Hacking
+13000120161_Cybersecurity and its 10 domains
+13000120161_AWS Fundamentals: Going Cloud-Native
+13000120161_Introduction to AWS Identity and Access Management
+13000120161_Getting Started with AWS Machine Learning
+13000120161_Introduction to Philosophy
+13001619121_Introduction to Philosophy(For 1st Year) 
+13001619121_Ecology:Ecosystem Dynamics and Conservation(For 1st Year) 
+13001619121_A Life of Happiness and Fulfillment(For 1st Year) 
+13001619121_Successful Career Development(For 1st Year) 
+13001619121_Ethical Leadership Through Giving Voice To Values(For 1st Year) 
+13001619121_AWS Fundamentals Going Cloud Native
+13001619121_Mathematics for Machine Learning: Multivariate Calculus
+13001619121_Machine Learning
+13005319013_Introduction in Philosophy(For 1st year)
+13005319013_Ecology Ecosystem Dynamics and Conservation(For 1st year)
+13005319013_Introduction to Programming with MATLAB(For 1st year)
+13005319013_Communication in the 21st century workplace(For 1st year)
+13005319013_Getting started with aws machine learning
+13005319013_Introduction to AWS identity and access management
+13005319013_Version control with Git
+13005319013_High Stakes Leadership Leading in Times of Crisis
+13005319013_Introduction in personal branding
+13005319013_The Challenges of Global Health
+13005319013_Psychological first aid
+13005319013_How to write resume(Project-Centered Course)
+13005319051_Digital Circuits_NPTEL
+13005319051_Introduction to Machine Learning_Coursera
+13005319051_Introduction to CSS 3_Coursera
+13005319051_Interactivity with JavaScript_Coursera
+13005319051_Advanced Styling with Responsive Design_Coursera
+13005319051_Mathematics for Machine Learning: Linear Algebra_Coursera
+13005319051_Programming Fundamentals_Coursera
+13005319051_Ecology Ecosystem Dynamics and Conservation_Coursera
+13005319051_Introduction to Philosophy_Coursera

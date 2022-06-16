@@ -1,0 +1,24 @@
+--Student Details--
+Name: MD SAMEER
+Roll No: 13000119114
+Stream: CSE
+Section: B
+E-mail ID: ms.katras@gmail.com
+Contact No: 7643053537
+
+--Student Details--
+Name: fffgdyt
+Roll No: 357798
+Stream: ffgu
+Section: stey
+E-mail ID: zdtyrrss
+Contact No: 13225478
+
+--Student Details--
+Name: fffgdyt
+Roll No: 357798
+Stream: ffgu
+Section: stey
+E-mail ID: zdtyrrss
+Contact No: 13225478
+
